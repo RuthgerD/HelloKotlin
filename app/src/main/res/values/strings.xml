@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="title_home">Nothing 0</string>
+    <string name="title_dashboard">Nothing 1</string>
+    <string name="title_notifications">Nothing 2</string>
+    <string name="button_home">Click Me!</string>
+</resources>
